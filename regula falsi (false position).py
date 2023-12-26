@@ -1,5 +1,6 @@
 #Qasid Ahmed Aleem
 #Regula Falsi Method
+#17 February 2018
 
 def func(f):					#given function 
 	return(f**3)+(f**2)-(3*f)-3
